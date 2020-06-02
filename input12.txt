@@ -1,0 +1,22 @@
+ 123456789ABCDEFGHIJK  
+1X   OO O       X   X<
+2  O     XO      OO  <
+3X   O O    XX    X  <
+4O       OO   O     O<
+5   X  X        OO   <
+6  XX    OO        O <
+7       O       O  OO<
+8   O X    X   X     <
+9  O        X   X  O <
+A OO  O XX         OO<
+B       XX  X O O O O<
+C XO X       O  O    <
+D              O    O<
+E         X X X    X <
+F X    O    XO X    O<
+G XX O  XX        X  <
+H     X     X     O O<
+IX     O O       X   <
+J  OO     XX  X  XX  <
+K  O      O O     O  <
+ ^^^^^^^^^^^^^^^^^^^^ 
